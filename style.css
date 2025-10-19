@@ -311,6 +311,14 @@ html {
     font-size: 14px;
 }
 
+.block-columns {
+	display: flex;
+	gap: 40px;
+	align-items: normal;
+}
+
+
+
 /* ==================== RESPONSIVE ==================== */
 @media (max-width: 900px) {
     .footer-container {
